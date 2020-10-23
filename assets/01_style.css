@@ -5,7 +5,7 @@
 /* Main Layout ––––––––––––––––––––––––––––––––––––––––––––––––––*/
 body {
   background-color: #1E1E1E;
-  color: #ffffff;
+  color: white;
   margin: 0;
   padding: 0;
 }
@@ -90,7 +90,7 @@ a {
   position: relative;
 }
 .has-value.Select--single>.Select-control .Select-value .Select-value-label, .has-value.is-pseudo-focused.Select--single>.Select-control .Select-value .Select-value-label{
-  color: #ffffff;
+  color: white;
   font-weight: 400;
   font-size: 14px;
 }
@@ -100,7 +100,7 @@ a {
   background-color: #1e1e1e;
   font-family: "Open Sans";
   font-weight: 400;
-  color: #ffffff;
+  color: white;
   border: 0.5px solid #dbdbdb44;
 }
 
@@ -124,7 +124,7 @@ a {
 
 .SingleDatePickerInput__withBorder {
   border-radius: 3px;
-  color: #ffffff;
+  color: white;
   background: #1e1e1e;
   background-color: #1e1e1e;
 }
@@ -260,7 +260,7 @@ a {
   position: relative;
 }
 .has-value.Select--single>.Select-control .Select-value .Select-value-label, .has-value.is-pseudo-focused.Select--single>.Select-control .Select-value .Select-value-label{
-  color: #d8d8d8;
+  color: white;
   font-weight: 400;
   font-size: 14px;
 }
@@ -270,7 +270,7 @@ a {
   background-color: #1e1e1e;
   font-family: "Open Sans";
   font-weight: 400;
-  color: #ffffff;
+  color: white;
   border: 0.5px solid #dbdbdb44;
 }
 
@@ -294,7 +294,7 @@ a {
 
 .SingleDatePickerInput__withBorder {
   border-radius: 3px;
-  color: #ffffff;
+  color: white;
   background: #1e1e1e;
   background-color: #1e1e1e;
 }
