@@ -1,7 +1,6 @@
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
-import dash_table
 import datetime
 import sys
 from dash.dependencies import Input, Output, State
@@ -27,6 +26,7 @@ app = dash.Dash(
     __name__, 
 )
 
+server = app.server
 
 colors = {
     'background': '#111111',
