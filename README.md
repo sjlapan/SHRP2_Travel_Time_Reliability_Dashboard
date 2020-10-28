@@ -1,8 +1,6 @@
 # SHRP2 Travel Time Reliability Dashboard (Colorado)
 Explore the impacts of work zones, incidents, extreme weather, and special events on travel time reliability in Colorado.
 
-## Table of Contents
-
 ## Overview
 This dashboard was developed by Navjoy Inc. in partnership with the Colorado Department of Transportation (CDOT) as part of the Strategic Highway Research Program 2 (SHRP2).
 
