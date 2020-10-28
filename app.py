@@ -314,9 +314,10 @@ children=[
                             """Explore and compare the impact of various nonrecurring sources of congestion 
                             on vehicle travel times in Colorado (measured as the percent change in travel 
                             time compared to normal conditions). For source code and additional information 
-                            regarding this project, click <a href = 'https://github.com/sjlapan/SHRP2_Travel_Time_Reliability_Dashboard/'>here</a>.
-                            """
+                            regarding this project, click """ 
+                            # """
                         ),
+                        dcc.Link(html.A('here.'), href='https://github.com/sjlapan/SHRP2_Travel_Time_Reliability_Dashboard/'),
 
                         html.H3("Variables"),
                         
