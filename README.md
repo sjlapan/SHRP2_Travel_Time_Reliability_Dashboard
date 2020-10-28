@@ -25,4 +25,4 @@ For more information on CDOT's implementation of SHRP2, see the report included 
 This project can be viewed at https://shrp2-dashboard.herokuapp.com/
 
 ## Acknowledgments 
-All code written by Stewart LaPan. The SHRP2 final report was composed by Justin Healey and Devin Joslin. Special thanks to Ethan Alexander and Marc Russell for their data collection efforts, and to Emily Gerson and Jim MacCrea for their assistance with editing and formatting of the final report.
+All code written by Stewart LaPan. The SHRP2 final report was composed by Justin Healey and Devin Joslin. Special thanks to Ethan Alexander and Marc Russell for their data collection efforts, and to Emily Gerson and Jim MacCrea for their assistance with editing and formatting of the final report. Many thanks to CDOT, the Federal Highway Adminstration, and the Denver Regional Council of Governments for all guidance and feedback provided.
